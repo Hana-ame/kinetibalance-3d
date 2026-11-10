@@ -1,0 +1,6 @@
+{
+  "name": "KinetiBalance 3D — 多段倒立摆物理平衡与矢量分解实验台",
+  "description": "基于 Three.js 与刚体动力学/LQR 最优控制的桌面三段（多段）倒立摆稳定支撑仿真系统，仅通过移动底部支撑点实现全关节平衡，内置可展开矢量分量与合成方向仪表盘。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
